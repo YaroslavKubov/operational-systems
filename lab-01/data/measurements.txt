@@ -1,0 +1,5 @@
+12.5 sensor-a
+14.0 sensor-b
+11.2 sensor-a
+13.8 sensor-b
+10.9 sensor-a
